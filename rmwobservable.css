@@ -1,0 +1,33 @@
+.p .li {
+  font: 12pt georgia;
+  width: 80%;
+  line-height: 1.6;
+}
+
+
+.li {
+  margin-bottom: 8pt;
+}
+h1, h2, h3, h4 {
+  width: 70%;
+  font-family: gillsans;
+}
+text.scrub {
+  cursor:col-resize;
+/*  padding:4px 6px;
+  text-align:center;
+  line-height:1.5;
+  background-color:hsla(60,50%,95%,0.8);
+  box-shadow:0 0 4px hsla(0,0%,0%,0.3);
+  border-radius:4px;*/
+  font:${scrubfont};
+  font-weight:bold;
+}
+text.scrub:hover { 
+    fill:green; 
+}
+text.drag {
+  cursor:col-resize;
+	font:${scrubfont};
+	font-weight:bold;
+}
