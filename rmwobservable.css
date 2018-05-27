@@ -1,11 +1,11 @@
-.p .li {
+p, li {
   font: 12pt georgia;
   width: 80%;
   line-height: 1.6;
 }
 
 
-.li {
+li {
   margin-bottom: 8pt;
 }
 h1, h2, h3, h4 {
