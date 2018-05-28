@@ -12,6 +12,12 @@ h1, h2, h3, h4 {
   width: 70%;
   font-family: gillsans;
 }
+
+text.figureLabel {
+  font: 14pt georgia;
+  font-weight: bold;
+}
+
 text.scrub {
   cursor:col-resize;
 /*  padding:4px 6px;
