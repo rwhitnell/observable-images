@@ -26,14 +26,14 @@ text.scrub {
   background-color:hsla(60,50%,95%,0.8);
   box-shadow:0 0 4px hsla(0,0%,0%,0.3);
   border-radius:4px;*/
-  font:${scrubfont};
-  font-weight:bold;
+  font: 14pt georgia;
+  font-weight: bold;
 }
 text.scrub:hover { 
-    fill:green; 
+    fill: green; 
 }
 text.drag {
   cursor:col-resize;
-	font:${scrubfont};
-	font-weight:bold;
+	font: 14pt georgia;
+	font-weight: bold;
 }
