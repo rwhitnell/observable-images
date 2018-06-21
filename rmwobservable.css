@@ -26,8 +26,7 @@ text.scrub {
   background-color:hsla(60,50%,95%,0.8);
   box-shadow:0 0 4px hsla(0,0%,0%,0.3);
   border-radius:4px;*/
-  font: 14pt georgia;
-  font-weight: bold;
+  font: 14pt gillsans;
 }
 text.scrub:hover { 
     fill: green; 
